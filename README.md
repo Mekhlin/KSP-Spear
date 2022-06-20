@@ -1,8 +1,8 @@
 # Spear
 
-Adds a cratered moon to Kerbal Space Program.
+Adds a cratered moon to [Kerbal Space Program](https://www.kerbalspaceprogram.com).
 
-## Requires
+## Dependencies
 
 * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 * [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases)
